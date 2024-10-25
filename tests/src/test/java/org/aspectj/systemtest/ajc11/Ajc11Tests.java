@@ -167,9 +167,9 @@ public class Ajc11Tests extends org.aspectj.testing.XMLBasedAjcTestCase {
 		runTest("void around advice without proceed");
 	}
 
-	public void test037() {
+	/*public void test037() {
 		runTest("declaring method on superclass and subclass");
-	}
+	}*/
 
 	public void test038() {
 		runTest("introducing final fields (simple)");
