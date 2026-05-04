@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.aspectj</groupId>
     <artifactId>aspectj-parent</artifactId>
-    <version>1.9.28-SNAPSHOT</version>
+    <version>1.9.28</version>
   </parent>
 
   <artifactId>testing</artifactId>
@@ -118,7 +118,7 @@
       <exclusions>
         <exclusion>
             <groupId>asm</groupId>
-            <artifactId>asm</artifactId>        
+            <artifactId>asm</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
